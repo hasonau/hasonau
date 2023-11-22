@@ -1,13 +1,13 @@
-# Hello, I'm [Your Name]! 👋
+# Hello, I'm Umair! 👋
 
 I'm a Computer Science student at PUCIT, passionate about programming, problem-solving, and technology.
 
-## 🔧 Technologies & Tools
+## Technologies & Tools
 
 - Programming Languages: C++, Python, Java
 - Web Development: HTML, CSS, JavaScript
 - Version Control: Git
-- IDEs: Visual Studio Code, IntelliJ IDEA
+- IDEs: Visual Studio Code, Clion
 
 ## Currently Learning
 

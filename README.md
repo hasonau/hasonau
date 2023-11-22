@@ -4,7 +4,7 @@ I'm a Computer Science student at PUCIT, passionate about programming, problem-s
 
 ## Technologies & Tools
 
-- Programming Languages: C++, Python, Java
+- Programming Languages: C++, Python
 - Web Development: HTML, CSS, JavaScript
 - Version Control: Git
 - IDEs: Visual Studio Code, Clion
